@@ -1,42 +1,43 @@
 {
-    "data" : [ 
-    {
-    "company": "",
-    "phone":"",
-    "freePhone":  true, 
-    "online": [
-        {
-            "website":"",
-            "quote": true,
-            "liveChat": true,
-            "email": ""
+   "data": [ 
+       {
+            "company": "",
+            "phone":"",
+            "freePhone":  true, 
+            "online": [
+                {
+                    "website":"",
+                    "quote": true,
+                    "liveChat": true,
+                    "email": ""
+                }
+            ],
+            "opening": [
+                {
+                    "weekDays": "",
+                    "saturdays":"",
+                    "sundays": ""
+                }
+            ],
+            "keyInfo": [
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""}
+            ],
+            "filters":[
+                {
+                    "age": 3,
+                    "travelType": "",
+                    "travelDurationInDays": 456,
+                    "terminalPrognosis": true
+                }
+            ]
+            
         }
-    ],
-    "opening": [
-        {
-            "weekDays": "",
-            "saturdays":"",
-            "sundays": ""
-        }
-    ],
-    "keyInfo": [
-        { "feature":""},
-        { "feature":""},
-        { "feature":""},
-        { "feature":""},
-        { "feature":""},
-        { "feature":""},
-        { "feature":""}
-    ],
-    "filters":[
-        {
-            "age": 3,
-            "travelType": "",
-            "travelDurationInDays": 456,
-            "terminalPrognosis": true
-        }
-    ]
-    
-}
-] 
+]
+
 }
