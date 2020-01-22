@@ -1,22 +1,22 @@
 {
    "data": [ 
        {
-            "company": "",
-            "phone":"",
+            "company": "Daystar Inc",
             "freePhone":  true, 
             "online": [
                 {
-                    "website":"",
+                    "website":"daystar.com",
                     "quote": true,
                     "liveChat": true,
-                    "email": ""
+                    "email": "info@daystar.com",
+                    "phone": "+44 1632 960284"
                 }
             ],
             "opening": [
                 {
-                    "weekDays": "",
-                    "saturdays":"",
-                    "sundays": ""
+                    "weekDays": "Mon - Fri 8:30 am to 8:00 pm",
+                    "saturdays":"8:30am to 6:00 pm",
+                    "sundays": "0:00 am 1to 4:00pm"
                 }
             ],
             "keyInfo": [
@@ -30,10 +30,21 @@
             ],
             "filters":[
                 {
-                    "age": 3,
-                    "travelType": "",
-                    "travelDurationInDays": 456,
-                    "terminalPrognosis": true
+                    "age": [
+                        {"range": "Under 18"},
+                        {"range":"Over 80"}
+                    ],
+                    "insuranceType": [
+                        {"type": "single"}
+                    ],
+                    "tripLength": [
+                        {"length": "under 1 month"},
+                        {"length": "1 - 3 months"}
+                    ],
+                    "treatmentStage": [
+                        {"stage": "Surgery waiting list"},
+                        {"stage": "Awaiting test result"}
+                    ]
                 }
             ]
             
@@ -44,21 +55,21 @@
 
         
        {
-            "company": "",
-            "phone":"",
-            "freePhone":  true, 
+            "company": "Olive Travels",
+            "freePhone":  false, 
             "online": [
                 {
-                    "website":"",
+                    "website":"otravels.com",
                     "quote": true,
                     "liveChat": true,
-                    "email": ""
+                    "email": "enquiries@otravels.com",
+                    "phone":"+44 1632 960873"
                 }
             ],
             "opening": [
                 {
-                    "weekDays": "",
-                    "saturdays":"",
+                    "weekDays": "Mon - Fri 7:30 am to 6:00 pm",
+                    "saturdays":"10: 00am to 3:00 pm",
                     "sundays": ""
                 }
             ],
@@ -73,10 +84,20 @@
             ],
             "filters":[
                 {
-                    "age": 3,
-                    "travelType": "",
-                    "travelDurationInDays": 456,
-                    "terminalPrognosis": true
+                    "age": [
+                        {"range": "Between 18 and 80 years"}
+                    ],
+                    "insuranceType": [
+                        {"type": "single"},
+                        {"type": "annual multi trips"}
+                    ],
+                    "tripLength": [
+                        {"length": "1 - 3 months"}
+                    ],
+                    "treatmentStage": [
+                        {"stage": "Surgery waiting list"},
+                        {"stage": "Going abroad for treatment / surgery"}
+                    ]
                 }
             ]
             
@@ -86,22 +107,22 @@
 
 
        {
-            "company": "",
-            "phone":"",
-            "freePhone":  true, 
+            "company": "Holsurance",
+            "freePhone":  false, 
             "online": [
                 {
-                    "website":"",
+                    "website":"holsurance.co.uk",
                     "quote": true,
                     "liveChat": true,
-                    "email": ""
+                    "email": "customer@holsurance.co.uk",
+                    "phone":"+44 1632 960028"
                 }
             ],
             "opening": [
                 {
-                    "weekDays": "",
-                    "saturdays":"",
-                    "sundays": ""
+                    "weekDays": "Mon - Fri 8:30 am to 8:00 pm",
+                    "saturdays":"8:30am to 6:00 pm",
+                    "sundays": "0:00 am 1to 4:00pm"
                 }
             ],
             "keyInfo": [
@@ -115,10 +136,19 @@
             ],
             "filters":[
                 {
-                    "age": 3,
-                    "travelType": "",
-                    "travelDurationInDays": 456,
-                    "terminalPrognosis": true
+                    "age": [
+                        {"range": "over 80 years"}
+                    ],
+                    "insuranceType": [
+                        {"type": "annual multi trips"}
+                    ],
+                    "tripLength": [
+                        {"length": "Between 3 - 6 months"},
+                        {"length": "Over 6 months"}
+                    ],
+                    "treatmentStage": [
+                        {"stage": "Terminal diagnosis"}
+                    ]
                 }
             ]
             
@@ -128,22 +158,22 @@
 
 
        {
-            "company": "",
-            "phone":"",
+            "company": "Special Travels",
             "freePhone":  true, 
             "online": [
                 {
-                    "website":"",
+                    "website":"specialinsurance.co.uk",
                     "quote": true,
                     "liveChat": true,
-                    "email": ""
+                    "email": "customercare@specialinsurance.co.uk",
+                    "phone":"+44 1632 960842"
                 }
             ],
             "opening": [
                 {
-                    "weekDays": "",
-                    "saturdays":"",
-                    "sundays": ""
+                    "weekDays": "Mon - Fri 8:30 am to 8:00 pm",
+                    "saturdays":"8:30am to 6:00 pm",
+                    "sundays": "0:00 am 1to 4:00pm"
                 }
             ],
             "keyInfo": [
@@ -157,10 +187,25 @@
             ],
             "filters":[
                 {
-                    "age": 3,
-                    "travelType": "",
-                    "travelDurationInDays": 456,
-                    "terminalPrognosis": true
+                    "age": [
+                        {"range": "Under 18 years"},
+                        {"range": "between 18 - 80 years"},
+                        {"range": "over 80 years"}
+                    ],
+                    "insuranceType": [
+                        {"type": "annual multi trips"}
+                    ],
+                    "tripLength": [
+                        {"length": "Between 1 - 3 months"},
+                        {"length": "Between 3 - 6 months"},
+                        {"length": "Over 6 months"}
+                    ],
+                    "treatmentStage": [
+                        {"stage": "Surgery waiting list"},
+                        {"stage": "Awaiting test result"},
+                        {"stage": "Going abroad for treatment / surgery"},
+                        {"stage": "Terminal diagnosis"}
+                    ]
                 }
             ]
             
@@ -170,22 +215,22 @@
 
 
        {
-            "company": "",
-            "phone":"",
+            "company": "Travelocity",
             "freePhone":  true, 
             "online": [
                 {
                     "website":"",
                     "quote": true,
                     "liveChat": true,
-                    "email": ""
+                    "email": "",
+                    "phone":"+44 1632 960706"
                 }
             ],
             "opening": [
                 {
-                    "weekDays": "",
-                    "saturdays":"",
-                    "sundays": ""
+                    "weekDays": "Mon - Fri 8:30 am to 8:00 pm",
+                    "saturdays":"8:30am to 6:00 pm",
+                    "sundays": "0:00 am 1to 4:00pm"
                 }
             ],
             "keyInfo": [
@@ -199,10 +244,19 @@
             ],
             "filters":[
                 {
-                    "age": 3,
-                    "travelType": "",
-                    "travelDurationInDays": 456,
-                    "terminalPrognosis": true
+                    "age": [
+                        {"range": "Under 18 years"}
+                    ],
+                    "insuranceType": [
+                        {"type": "single"}
+                    ],
+                    "tripLength": [
+                        {"length": "Between 1 - 3 months"}
+                    ],
+                    "treatmentStage": [
+                        {"stage": "Surgery waiting list"},
+                        {"stage": "Awaiting test result"}
+                    ]
                 }
             ]
             
