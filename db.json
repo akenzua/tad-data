@@ -31,8 +31,8 @@
             "filters":
                 {
                     "age": [
-                        {"range": "Under 18 years"},
-                        {"range":"Over 80 years"}
+                       "Under 18 years",
+                        "Over 80 years"
                     ],
                     "insuranceType": [
                         {"type": "single"}
