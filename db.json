@@ -28,7 +28,7 @@
                 { "feature":""},
                 { "feature":""}
             ],
-            "filters":[
+            "filters":
                 {
                     "age": [
                         {"range": "Under 18"},
@@ -46,7 +46,7 @@
                         {"stage": "Awaiting test result"}
                     ]
                 }
-            ]
+            
             
         },
 
