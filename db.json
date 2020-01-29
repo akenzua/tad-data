@@ -38,8 +38,8 @@
                        "Single Trip"
                     ],
                     "tripLength": [
-                        "under 1 month",
-                        "1 - 3 months"
+                        "Under 1 month",
+                        "Between 1 - 3 months"
                     ],
                     "treatmentStage": [
                         "Surgery waiting list",
@@ -92,7 +92,7 @@
                         "Annual Multi-Trip"
                     ],
                     "tripLength": [
-                       "1 - 3 months"
+                       "Between 1 - 3 months"
                     ],
                     "treatmentStage": [
                         "Surgery waiting list",
