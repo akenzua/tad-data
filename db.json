@@ -260,6 +260,55 @@
                 }
             
             
+        },
+
+
+       {
+            "company": "Louisle Travels",
+            "freePhone":  true, 
+            "online": [
+                {
+                    "website":"",
+                    "quote": true,
+                    "liveChat": true,
+                    "email": "",
+                    "phone":"+44 1632 960991"
+                }
+            ],
+            "opening": [
+                {
+                    "weekDays": "Mon - Fri 8:30 am to 8:00 pm",
+                    "saturdays":"8:30am to 6:00 pm",
+                    "sundays": "0:00 am 1to 4:00pm"
+                }
+            ],
+            "keyInfo": [
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""},
+                { "feature":""}
+            ],
+            "filters":
+                {
+                    "age": [
+                        "Under 18 years"
+                    ],
+                    "insuranceType": [
+                        "Single Trip"
+                    ],
+                    "tripLength": [
+                        "Between 1 - 3 months"
+                    ],
+                    "treatmentStage": [
+                        "Surgery waiting list",
+                        "Awaiting test result"
+                    ]
+                }
+            
+            
         }
 
 
