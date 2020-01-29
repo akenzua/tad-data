@@ -147,7 +147,7 @@
                         "Over 6 months"
                     ],
                     "treatmentStage": [
-                        "Terminal diagnosis"
+                        "Terminal prognosis"
                     ]
                 }
             
@@ -204,7 +204,7 @@
                         "Surgery waiting list",
                         "Awaiting test result",
                         "Going abroad for treatment / surgery",
-                        "Terminal diagnosis"
+                        "Terminal prognosis"
                     ]
                 }
             
