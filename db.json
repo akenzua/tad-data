@@ -45,15 +45,8 @@
                         "Surgery waiting list",
                         "Awaiting test result"
                     ]
-                }
-            
-            
-        },
-
-
-
-
-        
+                }     
+        }, 
        {
             "company": "Olive Travels",
             "freePhone":  false, 
@@ -102,11 +95,7 @@
             
             
         },
-
-
-
-
-       {
+        {
             "company": "Holsurance",
             "freePhone":  false, 
             "online": [
@@ -150,13 +139,7 @@
                         "Terminal prognosis"
                     ]
                 }
-            
-            
         },
-
-
-
-
        {
             "company": "Special Travels",
             "freePhone":  true, 
@@ -207,13 +190,7 @@
                         "Terminal prognosis"
                     ]
                 }
-            
-            
         },
-
-
-
-
        {
             "company": "Travelocity",
             "freePhone":  true, 
@@ -261,8 +238,6 @@
             
             
         },
-
-
        {
             "company": "Louisle Travels",
             "freePhone":  true, 
@@ -312,12 +287,6 @@
             
             
         }
-
-
-
-
-
-
 ]
 
 }
