@@ -42,8 +42,8 @@
                         "Between 1 - 3 months"
                     ],
                     "treatmentStage": [
-                        "Surgery waiting list",
-                        "Awaiting test result"
+                        "I am on a waiting list at home for treatment or surgery",
+                        "I am awating test results"
                     ]
                 }     
         }, 
@@ -88,8 +88,8 @@
                        "Between 1 - 3 months"
                     ],
                     "treatmentStage": [
-                        "Surgery waiting list",
-                        "Going abroad for treatment / surgery"
+                        "I am on a waiting list at home for treatment or surgery",
+                        "I am going abroad for medical treatment or surgery"
                     ]
                 }
             
@@ -136,7 +136,7 @@
                         "Over 6 months"
                     ],
                     "treatmentStage": [
-                        "Terminal prognosis"
+                        "My doctor has given me a terminal prognosis"
                     ]
                 }
         },
@@ -184,10 +184,10 @@
                         "Over 6 months"
                     ],
                     "treatmentStage": [
-                        "Surgery waiting list",
-                        "Awaiting test result",
-                        "Going abroad for treatment / surgery",
-                        "Terminal prognosis"
+                        "I am on a waiting list at home for treatment or surgery",
+                        "I am awating test results",
+                        "I am going abroad for medical treatment or surgery",
+                        "My doctor has given me a terminal prognosis"
                     ]
                 }
         },
@@ -231,8 +231,8 @@
                         "Between 1 - 3 months"
                     ],
                     "treatmentStage": [
-                        "Surgery waiting list",
-                        "Awaiting test result"
+                        "I am on a waiting list at home for treatment or surgery",
+                        "I am awating test results"
                     ]
                 }
             
@@ -280,8 +280,8 @@
                         "Over 6 months"
                     ],
                     "treatmentStage": [
-                        "Surgery waiting list",
-                        "Awaiting test result"
+                        "I am on a waiting list at home for treatment or surgery",
+                        "I am awating test results"
                     ]
                 }
             
