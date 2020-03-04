@@ -222,7 +222,7 @@
                 }
             ],
            
-            "offerings":
+            "offerings":[
                 {
                     "age": [
                         "Under 18 years"
@@ -238,7 +238,7 @@
                         "I am awating test results"
                     ]
                 }
-            
+            ]
             
         }
     ]
