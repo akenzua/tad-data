@@ -27,8 +27,8 @@
           "treatmentStage": ["I am awating test results"]
         },
         {
-          "age": ["Over 80 years"],
-          "insuranceType": ["Single Trip"],
+          "age": "Over 80 years",
+          "insuranceType": "Single Trip",
           "tripLength": ["Between 3 - 6 months"],
           "treatmentStage": [
             "I am going abroad for medical treatment or surgery",
