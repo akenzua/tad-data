@@ -21,8 +21,8 @@
       ],
       "offerings": [
         {
-          "age": ["Between 18 and 80 years"],
-          "insuranceType": ["Single Trip"],
+          "age": "Between 18 and 80 years",
+          "insuranceType": "Single Trip",
           "tripLength": ["Between 3 - 6 months", "Over 6 months"],
           "treatmentStage": ["I am awating test results"]
         },
@@ -58,8 +58,8 @@
       ],
       "offerings": [
         {
-          "age": ["Between 18 and 80 years"],
-          "insuranceType": ["Single Trip", "Annual Multi-Trip"],
+          "age": "Between 18 and 80 years",
+          "insuranceType": "Annual Multi-Trip",
           "tripLength": ["Between 1 - 3 months"],
           "treatmentStage": [
             "I am on a waiting list at home for treatment or surgery",
@@ -67,8 +67,8 @@
           ]
         },
         {
-          "age": ["Under 18 years"],
-          "insuranceType": ["Single Trip"],
+          "age": "Under 18 years",
+          "insuranceType": "Single Trip",
           "tripLength": ["Between 1 - 3 months"],
           "treatmentStage": ["My doctor has given me a terminal prognosis"]
         }
@@ -95,14 +95,14 @@
       ],
       "offerings": [
         {
-          "age": ["Over 80 years"],
-          "insuranceType": ["Annual Multi-Trip"],
+          "age": "Over 80 years",
+          "insuranceType": "Annual Multi-Trip",
           "tripLength": ["Over 6 months"],
           "treatmentStage": ["My doctor has given me a terminal prognosis"]
         },
         {
           "age": "Between 18 and 80 years",
-          "insuranceType": ["Single Trip"],
+          "insuranceType": "Single Trip",
           "tripLength": ["Between 1 - 3 months"],
           "treatmentStage": ["I am awating test results"]
         }
@@ -129,8 +129,8 @@
       ],
       "offerings": [
         {
-          "age": ["Under 18 years", "Between 18 and 80 years", "Over 80 years"],
-          "insuranceType": ["Annual Multi-Trip"],
+          "age": "Between 18 and 80 years",
+          "insuranceType": "Annual Multi-Trip",
           "tripLength": [
             "Between 1 - 3 months",
             "Between 3 - 6 months",
@@ -168,7 +168,7 @@
       "offerings": [
         {
           "age": "Under 18 years",
-          "insuranceType": ["Single Trip"],
+          "insuranceType": "Single Trip",
           "tripLength": ["Between 1 - 3 months"],
           "treatmentStage": [
             "I am on a waiting list at home for treatment or surgery",
