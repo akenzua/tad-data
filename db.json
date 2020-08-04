@@ -56,7 +56,7 @@
             "I am on a waiting list at home for treatment or surgery"
           
        
-      
+    },
     {
       "company": "Holsurance",
       "freePhone": true,
@@ -138,7 +138,7 @@
      
           "age": "Between 18 and 80 years",
           "insuranceType": "Single Trip",
-          "tripLength": "Between 3 - 6 months", "Over 6 months",
+          "tripLength": "Between 3 - 6 months",
           "treatmentStage": "I am awating test results"
         
     }
