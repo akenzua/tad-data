@@ -20,12 +20,20 @@
           "sundays": "0:00 am 1to 4:00pm"
         }
       ],
-     
-       "age": "Between 18 and 80 years",
+      "filter":[
+       {"age": "Between 18 and 80 years",
           "insuranceType": "Single Trip",
           "tripLength":  "Over 6 months",
           "treatmentStage": "I am awating test results"
-      
+    },
+         {"age": "Under 18 years",
+          "insuranceType": "Annual Multi-Trip",
+          "tripLength":  "Over 6 months",
+          "treatmentStage": "I am on a waiting list at home for treatment or surgery"
+    }
+      ]
+     
+     
       
     },
     {
@@ -48,13 +56,21 @@
           "sundays": "0:00 am 1to 4:00pm"
         }
       ],
-      
+        "filter":[{
           "age": "Between 18 and 80 years",
           "insuranceType": "Annual Multi-Trip",
           "tripLength": "Between 1 - 3 months",
           "treatmentStage": 
             "I am on a waiting list at home for treatment or surgery"
-          
+        },
+            {
+          "age": "Between 18 and 80 years",
+          "insuranceType": "Annual Multi-Trip",
+          "tripLength": "Over 6 months",
+          "treatmentStage": 
+            "I am on a waiting list at home for treatment or surgery"
+        },     
+                 ]
        
     },
     {
@@ -77,12 +93,12 @@
           "sundays": "0:00 am 1to 4:00pm"
         }
       ],
-     
+     "filter":[{
           "age": "Over 80 years",
           "insuranceType": "Annual Multi-Trip",
           "tripLength": "Over 6 months",
           "treatmentStage": "My doctor has given me a terminal prognosis"
-       
+     }]
       
     },
     {
@@ -106,13 +122,13 @@
         }
       ],
      
-       
+         "filter":[{
      
           "age": "Under 18 years",
           "insuranceType": "Single Trip",
           "tripLength": "Between 1 - 3 months",
           "treatmentStage": "My doctor has given me a terminal prognosis"
-    
+         }]
     },
     {
       "company": "Travelocity",
@@ -135,12 +151,12 @@
         }
       ],
 
-     
+       "filter":[{
           "age": "Between 18 and 80 years",
           "insuranceType": "Single Trip",
           "tripLength": "Between 3 - 6 months",
           "treatmentStage": "I am awating test results"
-        
+       }]
     }
   ]
 }
